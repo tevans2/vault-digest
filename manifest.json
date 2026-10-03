@@ -1,0 +1,9 @@
+{
+  "id": "vault-digest",
+  "name": "Vault Digest",
+  "version": "0.1.0",
+  "minAppVersion": "1.11.4",
+  "description": "Your vault as a morning paper: deadlines, today, courses and announcements on one live page.",
+  "author": "Tate Evans",
+  "isDesktopOnly": false
+}

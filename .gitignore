@@ -1,0 +1,10 @@
+node_modules/
+# Build output. Releases attach main.js; it isn't tracked.
+main.js
+*.map
+# Per-vault plugin settings and the dev hot-reload marker.
+data.json
+.hotreload
+.DS_Store
+coverage/
+*.log
